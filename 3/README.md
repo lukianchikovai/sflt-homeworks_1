@@ -47,5 +47,13 @@
 
 [Общая ссылка со всеми материалами к ДЗ](https://drive.google.com/drive/folders/15oHPficDvU06QMWxyOawE-KuPOkOdFKE?usp=drive_link)
 
+### Задание 3
+1. Настройте ограничение на используемую пропускную способность rsync до 1 Мбит/c
+2. Проверьте настройку, синхронизируя большой файл между двумя серверами
+3. На проверку направьте команду и результат ее выполнения в виде скриншота
+
+Команда: ```rsync -a --progress --bwlimit=1000 testfile lukianchikovai@158.160.55.214:/tmp```
+[Общая ссылка со всеми материалами к ДЗ](https://drive.google.com/drive/folders/12HJRREOG0-C8xAxRaTI_nxo8-X6w5dBP?hl=ru)
+
 
 
