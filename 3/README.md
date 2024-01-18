@@ -53,6 +53,7 @@
 3. На проверку направьте команду и результат ее выполнения в виде скриншота
 
 Команда: ```rsync -a --progress --bwlimit=1000 testfile lukianchikovai@158.160.55.214:/tmp```
+
 [Общая ссылка со всеми материалами к ДЗ](https://drive.google.com/drive/folders/12HJRREOG0-C8xAxRaTI_nxo8-X6w5dBP?hl=ru)
 
 
